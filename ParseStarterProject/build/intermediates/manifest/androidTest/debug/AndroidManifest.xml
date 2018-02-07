@@ -3,7 +3,7 @@
     package="com.parse.starter.test" >
 
     <uses-sdk
-        android:minSdkVersion="9"
+        android:minSdkVersion="14"
         android:targetSdkVersion="23" />
 
     <instrumentation
@@ -13,7 +13,7 @@
         android:label="Tests for com.parse.starter"
         android:targetPackage="com.parse.starter" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

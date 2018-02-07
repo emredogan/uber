@@ -21,15 +21,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/c325af94e604cc3b904d4a0d83c58a167effc1ea/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed33e4840c62b6f7ab320840ad129203d3211e56/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/emredogan/.android/build-cache/58530d2807d86183347c7a98be1a1e283ced45f4/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -45,6 +36,42 @@
         revision="27.0.3"
         sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
         <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1eb3f135e9bf806248d7e228a7ad0f91e9a39b13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/c948585dfc3c0f2085b04e9a7890385b7ed5b8f3/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_8f4fa6d788d7d46154d147a482b6978b42603b3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/178f65421fbeb182f42013cbf734918db95cf09b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92a7e9aede80ac8737c4872faa93c85746b433a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/4d443137f9d30f0ef10d7b56145f0ab7404c1ea1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c475c6085cfb7c0d058d7003303a8e2e1ff3457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/d7527d60dea3a8013f301911554b185839659291/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_155265c9e9bc95772bc803f026817a7aef5edd09/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,6 +93,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/49d0fc8e108790993f6efdd85504b3e427c85634/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ef1551ad17f7489b89974e59e3fdd0e9bdca319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/emredogan/.android/build-cache/1fe686fbce2c2dee55c498d93026e912d07f76d7/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -81,6 +117,42 @@
         revision="27.0.3"
         sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
         <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb63230bbf5fc30f47291e72033c0680ccdd6804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/9484b8ac8f3b20724f3b615685e4a91c11df8e80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a582910b9b3c04bcbf0fc728aa03706eae8ab750/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/18afb84d78194e290a7a6075661266161e12bb6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cca2897d20dcbbdab3fe8c764b63023682bcb76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/53cee36780ca8f34a1a094b38ea66c7d4f2361e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a031f6d9135bd1af297129e7bc75b42f7a38af5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/06424dd6d5fa8d465ae18c33cbe55906f6183c68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8efa268cb7917c8d83f5bed0e8ba8a5e226736c7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,6 +183,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/df1c166f5a210f53315ae07e75f24a703be7c88b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d26e769d3dc70fdc7d987fe569595337c722642b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/emredogan/.android/build-cache/6ea2bf4f43c26ad6f15d0042cb60f7043ebe5c6a/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -129,12 +210,66 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/c1aa3ff8e66422b7f3b973065233703926ef9c0e/output/jars/classes.jar"
+        jar="/Users/emredogan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8cab33aa3f38f6ca5f1ce84e0807b7606653859/classes.dex" />
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_d0268e3c37f6851c44ac339bac417bcc258da432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/194847cc97ef4cdd325d40d51d5231a8d138c9ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31c52883be9da54f5ad1542949a0d6c4402e40d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/a3911f9642b633e40697c1b1e46d243ed56913ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f6b2d5a08fe9a7d6e31f2550c461d78daf758cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/a8809a8b820946fba42a71aab3b1a5a5f5f2b0b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_915c3d5864da7d35e0ee8c9551e9657ef34a59de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/b89e26fa8b37c205de18ac160e066f1f24e87e77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab811fdf80595e2f526d9003b4184ee622de88ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/ea9c6e8cb0e29e47c07cf819d6aed23457c3da66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccf780c190d6468e4ecc6962b4bcf19cc90ceb1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/c829250d10632a5b6656540b8adb77011db65f71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a6d5f8e69994c66aa83edd23414a16416e12594/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,12 +282,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/1d871bacca580729f83dc1d391880868205a33cc/output/jars/classes.jar"
+        jar="/Users/emredogan/.android/build-cache/ff206528f955674a032061354c165591c5513b56/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.3"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_417aba7d7177fa4bc7a84551e922265c1f7c6eb3/classes.dex" />
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24669a492be40c997cb8832011bfccafe0828933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/d0e4f7159e4a4a329c059b9f7bef22c1edc13d53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45db6ce6ec5e8a3031e3170c2fc630b03a9b8de9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/f7e463ad05c2e0ca312ddf726cc7369ef1f0a876/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_128101609269c056b2a7e4f30909cfb9ddf3d718/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/c0cbae751941b7c6056ce83c207e8486b2736441/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_689e8f4863eb54ad0df4531869934948a7d02915/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bb56e62cd0d3e8e111abcc2aeb6af9862af85efd">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b1ae42912d53111db002e225f4376a75e756fd5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -162,6 +333,15 @@
         revision="27.0.3"
         sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
         <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f815136e52fcb7e92e4bfd48ce9ce8126daade6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d57b6db047022aa6f6aff8093593a5739cac770/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -180,15 +360,6 @@
         revision="27.0.3"
         sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
         <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd7e31e3b1fbc5f84bb33a80825423e8036c2640/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/c1aa3ff8e66422b7f3b973065233703926ef9c0e/output/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_7c113e514490a63a76b92d6eb037160332116b14/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -228,6 +399,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/1f2506a7b8642d607d6c5af1e2dd6fc76885955e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45f65d605347f9710120de968da1362527f20367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/emredogan/.android/build-cache/f8d0fea61b26e26929a1f4050f5f09b2ba3b8e04/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -246,156 +426,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/c948585dfc3c0f2085b04e9a7890385b7ed5b8f3/output/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_8f4fa6d788d7d46154d147a482b6978b42603b3f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/178f65421fbeb182f42013cbf734918db95cf09b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92a7e9aede80ac8737c4872faa93c85746b433a2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/4d443137f9d30f0ef10d7b56145f0ab7404c1ea1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c475c6085cfb7c0d058d7003303a8e2e1ff3457/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/68f4fe35b6fc301b41cfc783b4bea136a3aa237f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9262b02e29f1cc094d85e1f7ae71b587bc6f1d68/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/49d0fc8e108790993f6efdd85504b3e427c85634/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ef1551ad17f7489b89974e59e3fdd0e9bdca319/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/18afb84d78194e290a7a6075661266161e12bb6b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cca2897d20dcbbdab3fe8c764b63023682bcb76/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/53cee36780ca8f34a1a094b38ea66c7d4f2361e8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a031f6d9135bd1af297129e7bc75b42f7a38af5f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/06424dd6d5fa8d465ae18c33cbe55906f6183c68/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8efa268cb7917c8d83f5bed0e8ba8a5e226736c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_8065aa777324dc3582ec4908a61ab4976cee06fa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/a8809a8b820946fba42a71aab3b1a5a5f5f2b0b1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_915c3d5864da7d35e0ee8c9551e9657ef34a59de/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/b89e26fa8b37c205de18ac160e066f1f24e87e77/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab811fdf80595e2f526d9003b4184ee622de88ec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/ff206528f955674a032061354c165591c5513b56/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24669a492be40c997cb8832011bfccafe0828933/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/f7e463ad05c2e0ca312ddf726cc7369ef1f0a876/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_128101609269c056b2a7e4f30909cfb9ddf3d718/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/.android/build-cache/c0cbae751941b7c6056ce83c207e8486b2736441/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_689e8f4863eb54ad0df4531869934948a7d02915/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="afd064787c7601b223c96fa6ebf4daae3e5f7a6c">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b1ae42912d53111db002e225f4376a75e756fd5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d57b6db047022aa6f6aff8093593a5739cac770/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/emredogan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.3"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_e2064402274188dcabba5f404cb3cf47ce4124f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/0c9beb99357166adb0961e88eb6fb7dc371b7b23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db1b4fd8f329d8c2bdfb9c32dd77391be427460a/classes.dex" />
     </item>
 
 </items>
