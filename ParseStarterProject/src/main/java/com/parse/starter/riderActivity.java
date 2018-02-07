@@ -3,6 +3,7 @@ package com.parse.starter;
 import android.*;
 import android.Manifest;
 import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
@@ -114,6 +115,14 @@ public class riderActivity extends FragmentActivity implements OnMapReadyCallbac
         mMap.addMarker(new MarkerOptions().position(userLocation).title("Your Location"));
 
 
+    }
+
+    public void logout(View view) {
+        ParseUser.logOut();
+
+        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+
+        startActivity(intent);
     }
 
     public void callUber(View view) {

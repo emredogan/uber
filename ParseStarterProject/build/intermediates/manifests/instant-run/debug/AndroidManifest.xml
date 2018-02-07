@@ -66,6 +66,10 @@
         <activity
             android:name="com.parse.starter.riderActivity"
             android:label="@string/title_activity_rider" />
+        <activity android:name="com.parse.starter.ViewRequestActivity" />
+        <activity
+            android:name="com.parse.starter.DriverLocationActivity"
+            android:label="@string/title_activity_driver_location" />
 
         <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
 

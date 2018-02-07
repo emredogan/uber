@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/adf9615d125fef232897cb032d375008/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/4bf3304f686533327eaf87b866a7166d/AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/f3b850e1b5d77a03fd5fc077a8b7592b/AndroidManifest.xml:17:1-24:12
@@ -14,6 +14,7 @@ MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /Users/emred
 MERGED from [com.google.android.gms:play-services-places:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/fe69fc172e92e4edb2e9e6e9a2253b4f/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/0132859822c0a983ab76797d73584653/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/2bc577f40b724153b2df1e5bd10bfff4/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/983eb5f924b787cde7b34fb06898af69/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c68a0f8dc449fbb4bd12fe21d673ecb6/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-ads:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/280b9a494b2d34acc64b2238c9639d58/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/1f974ccd1cb1096019f79d6f861d37a7/AndroidManifest.xml:17:1-36:12
@@ -118,20 +119,20 @@ MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] 
 MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/63f6e0f4ab8bcaa8b7c2e6ae96553a2e/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/4caf38b43a30b4f81e471aa246e99d64/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/307fa07e24d8557cacf378d753dc8a57/AndroidManifest.xml:2:1-6:12
-INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
 	package
 		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
 		INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
 		INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
@@ -194,7 +195,7 @@ ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/m
 	android:name
 		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
 application
-ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:17:5-48:19
+ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:17:5-52:19
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/adf9615d125fef232897cb032d375008/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/adf9615d125fef232897cb032d375008/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/4bf3304f686533327eaf87b866a7166d/AndroidManifest.xml:7:5-12:19
@@ -211,6 +212,8 @@ MERGED from [com.google.android.gms:play-services-places:11.8.0] /Users/emredoga
 MERGED from [com.google.android.gms:play-services-places:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/fe69fc172e92e4edb2e9e6e9a2253b4f/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/2bc577f40b724153b2df1e5bd10bfff4/AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/2bc577f40b724153b2df1e5bd10bfff4/AndroidManifest.xml:30:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/983eb5f924b787cde7b34fb06898af69/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/983eb5f924b787cde7b34fb06898af69/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c68a0f8dc449fbb4bd12fe21d673ecb6/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c68a0f8dc449fbb4bd12fe21d673ecb6/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/1f974ccd1cb1096019f79d6f861d37a7/AndroidManifest.xml:26:5-34:19
@@ -434,11 +437,21 @@ ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/m
 	android:name
 		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:42:13-58
 activity#com.parse.starter.riderActivity
-ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:45:9-47:69
+ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:45:9-47:60
 	android:label
 		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:47:13-57
 	android:name
 		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:46:13-42
+activity#com.parse.starter.ViewRequestActivity
+ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:48:9-57
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:48:19-54
+activity#com.parse.starter.DriverLocationActivity
+ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:49:9-51:79
+	android:label
+		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:51:13-67
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml:50:13-51
 uses-sdk
 INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/emredogan/AndroidStudioProjects/Uber/ParseStarterProject/src/main/AndroidManifest.xml
@@ -463,6 +476,8 @@ MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /Users/emredoga
 MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/0132859822c0a983ab76797d73584653/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/2bc577f40b724153b2df1e5bd10bfff4/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/2bc577f40b724153b2df1e5bd10bfff4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/983eb5f924b787cde7b34fb06898af69/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/983eb5f924b787cde7b34fb06898af69/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c68a0f8dc449fbb4bd12fe21d673ecb6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c68a0f8dc449fbb4bd12fe21d673ecb6/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads:11.8.0] /Users/emredogan/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/280b9a494b2d34acc64b2238c9639d58/AndroidManifest.xml:21:5-23:62
