@@ -44,6 +44,11 @@ public class ViewRequestActivity extends AppCompatActivity {
     ArrayList<Double> requestLatitudes = new ArrayList<Double>();
     ArrayList<Double> requestLongitudes = new ArrayList<Double>();
 
+    ArrayList<String> usernames = new ArrayList<String>();
+
+
+
+
 
 
     public void updateListView(Location location) {
@@ -55,6 +60,8 @@ public class ViewRequestActivity extends AppCompatActivity {
             final ParseGeoPoint geoPointLocation = new ParseGeoPoint(location.getLatitude(), location.getLongitude());
 
             query.whereNear("location",geoPointLocation);
+
+            query.whereDoesNotExist("driverUsername");
 
             query.setLimit(10);
 
@@ -84,6 +91,7 @@ public class ViewRequestActivity extends AppCompatActivity {
 
                                     requestLatitudes.add(requestLocation.getLatitude());
                                     requestLongitudes.add(requestLocation.getLongitude());
+                                    usernames.add(object.getString("username"));
 
                                 }
                             }
@@ -154,25 +162,16 @@ public class ViewRequestActivity extends AppCompatActivity {
 
                 if (Build.VERSION.SDK_INT < 23 || ContextCompat.checkSelfPermission(ViewRequestActivity.this, android.Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
 
-                    Log.i("INFO", "IKI");
 
 
                     Location lastKnownLocation = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
 
-                    Log.i("IINFO", String.valueOf(i));
-
-                    Log.i("IINFO1", String.valueOf(requestLatitudes.size()));
-
-                    Log.i("IINFO2", String.valueOf(requestLongitudes.size()));
-
-                    Log.i("IINFO3", String.valueOf(lastKnownLocation));
 
 
-                    if (requestLatitudes.size() > i && requestLongitudes.size() > i && lastKnownLocation != null) {
+                    if (requestLatitudes.size() > i && requestLongitudes.size() > i && lastKnownLocation != null && usernames.size() > i) {
 
 
 
-                        Log.i("INFO", "SONN");
 
                         Intent intent  = new Intent(getApplicationContext(), DriverLocationActivity.class);
 
@@ -180,6 +179,7 @@ public class ViewRequestActivity extends AppCompatActivity {
                         intent.putExtra("requestLongitude", requestLongitudes.get(i));
                         intent.putExtra("driverLatitude", lastKnownLocation.getLatitude());
                         intent.putExtra("driverLongitude", lastKnownLocation.getLongitude());
+                        intent.putExtra("username",usernames.get(i));
 
                         startActivity(intent);
 
